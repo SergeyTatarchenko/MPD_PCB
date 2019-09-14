@@ -1,4 +1,4 @@
-update=Вс 08 сен 2019 19:42:42
+update=Сб 14 сен 2019 19:41:02
 version=1
 last_client=kicad
 [pcbnew]
@@ -59,3 +59,5 @@ LibName27=atmel
 LibName28=contrib
 LibName29=valves
 LibName30=MCU_ST_STM32F0
+LibName31=Device
+LibName32=Amplifier_Operational
