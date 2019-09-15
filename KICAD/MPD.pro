@@ -1,4 +1,4 @@
-update=Сб 14 сен 2019 19:41:02
+update=Вс 15 сен 2019 21:28:17
 version=1
 last_client=kicad
 [pcbnew]
@@ -61,3 +61,5 @@ LibName29=valves
 LibName30=MCU_ST_STM32F0
 LibName31=Device
 LibName32=Amplifier_Operational
+LibName33=Analog
+LibName34=Regulator_Linear
